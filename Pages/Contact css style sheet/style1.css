@@ -1,0 +1,10 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:aliceblue;
+    font-style: italic;
+    text-align: right;
+  }
+  #contact{
+    height: fit-content;
+    image-resolution: 2000px;
+  }

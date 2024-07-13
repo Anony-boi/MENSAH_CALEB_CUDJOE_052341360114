@@ -1,0 +1,54 @@
+
+#division1{
+    background-color:black;
+    padding:30px;
+    margin:none;
+    
+   
+    
+  }
+  
+  
+
+
+  #new{
+    padding: 50px;
+    margin: none;
+    height: 1000px;
+    background-color: aqua;
+
+    
+  }
+  #navbar{
+    margin: 20px;
+    text-align: center;
+    background-color: aqua;
+  }
+
+  #navbar ul{
+
+padding: 20px;
+text-align: center;
+margin: 20px;
+  }
+
+  #navbar ul li{
+display: inline;
+margin: 100px;
+
+  }
+
+  #navbar ul li a{
+text-decoration: none;
+
+  }
+  #division3{
+    background-color:black;
+    padding:none;
+    margin:none;
+  }
+  #photo1{
+    image-resolution: 500px;
+}
+
+

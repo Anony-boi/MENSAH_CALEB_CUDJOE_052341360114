@@ -1,0 +1,62 @@
+body{
+   color:orange(255,30,0);
+   font-style: oblique;
+   font-family: Arial, Helvetica, sans-serif; 
+   background-color:none;
+  
+   
+   margin: 0px;
+   background-repeat:repeat-x ;
+} 
+
+
+nav{
+  list-style-type: left;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 100%;
+  font-weight: 100px;
+  
+ }
+ #first{
+  background-color:aqua;
+  padding:30px;
+  margin:none;
+ 
+  
+}
+ #nav li{
+  margin: 100px;
+   float:left
+   
+  
+ }
+a{
+  color:blue;
+  
+}
+
+a:hover{color:red}
+a:active{color:green}
+/*a:visited{color:blue}*/
+
+
+
+
+
+
+
+
+#photo1{
+background-size: cover;
+  
+}
+h1{
+  color: yellowgreen;
+  align-content: center;
+  margin: 100px;
+  font-size: 50px
+  
+}
+h1:hover{color:red}
+
+
